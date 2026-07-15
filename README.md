@@ -1,3 +1,11 @@
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/artifacts?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/artifacts?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/artifacts?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-20260207-blue?style=flat-square)](https://pypi.org/project/artifacts)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
+
 ## Digital Forensics Artifacts Repository
 
 A free, community-sourced, machine-readable knowledge base of digital forensic
